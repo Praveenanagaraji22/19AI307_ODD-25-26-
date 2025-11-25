@@ -2,6 +2,8 @@
 
 ## QUESTION:
 Create a program that sends different types of notifications: "email", "sms", and "push". Use the Factory Pattern to generate the appropriate notification sender and call its notifyUser() method.
+
+
 <img width="386" height="142" alt="image" src="https://github.com/user-attachments/assets/34eb7c90-6abb-4d98-9137-cb9e9ef1ca7a" />
 
 ## AIM:
@@ -83,3 +85,4 @@ public class Main {
 
 ## RESULT:
 Thus, the program successfully implements the Factory Design Pattern, creates notification objects dynamically based on user input, and displays the appropriate notification message.
+
