@@ -2,6 +2,7 @@
 
 ## QUESTION:
 Create a class Vehicle with attributes as number, type and owner.
+
 <img width="503" height="144" alt="image (9)" src="https://github.com/user-attachments/assets/f6101c52-1afd-40dc-8f22-44cea4615353" />
 
 
@@ -60,7 +61,8 @@ public class Main {
 ```
 
 ## OUTPUT:
-<img width="503" height="144" alt="image (9)" src="https://github.com/user-attachments/assets/ef9dd14a-ff48-4efd-a390-d2b2c6f13465" />
+<img width="704" height="285" alt="image (10)" src="https://github.com/user-attachments/assets/17b546df-00e1-4558-b4d0-897a9f232baf" />
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
