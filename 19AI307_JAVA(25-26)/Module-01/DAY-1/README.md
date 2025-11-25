@@ -84,7 +84,8 @@ class prog{
 ```
 
 ## OUTPUT:
-<img width="427" height="248" alt="image (5)" src="https://github.com/user-attachments/assets/fbe6d17c-9351-488f-9c7b-cbad174a4101" />
+<img width="728" height="531" alt="image (6)" src="https://github.com/user-attachments/assets/f11e5a1f-0dc4-4b97-bcab-f861326bf1ae" />
 
 ## RESULT:
 The program has been executed successfully and the desired output has been obtained.
+
